@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "id": "calculator",
+      "name": "Calculator",
+      "category": "Examples",
+      "description": "A simple calculator built with Divooka. Add, subtract, multiply and divide, then browse the visual program behind the screen.",
+      "publisher": "Methodox Technologies, Inc.",
+      "version": "1.0.0",
+      "packageUrl": "https://appcatalog.divooka.com/Examples/calculator-1.0.0.dvkapp",
+      "sha256": "9e91e2022d99111051cd3d018b756eb8558cc4d57743d0ab7fd73a0a95346c09",
+      "bytes": 19555,
+      "sourceUrl": "https://appcatalog.divooka.com/Examples/calculator-1.0.0.dvk",
+      "platforms": [
+        "android",
+        "windows"
+      ],
+      "runtimeVersion": 1
+    }
+  ]
+}
